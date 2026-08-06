@@ -1,0 +1,15 @@
+{
+  "cultivateCd": 300,
+  "cultivateExpMin": 10,
+  "cultivateExpMax": 30,
+  "stoneDropChance": 0.3,
+  "stoneDropMin": 1,
+  "stoneDropMax": 5,
+  "minorFailLoseRatio": 0.2,
+  "majorFailLoseRatio": 0.5,
+  "helpTitle": "修仙插件",
+  "helpSubtitle": "指令菜单",
+  "helpColumns": 2,
+  "helpColWidth": 280,
+  "helpTheme": "default"
+}

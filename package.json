@@ -1,0 +1,17 @@
+{
+  "name": "xiuxian-plugin",
+  "version": "2.0.0",
+  "description": "文字放置修仙游戏插件（含灵石/丹药/功法/图片菜单/锅巴配置/更新功能）",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "check": "node scripts/check-syntax.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

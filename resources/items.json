@@ -1,0 +1,72 @@
+[
+  {
+    "id": "jinzhu_dan",
+    "type": "pill",
+    "name": "筑基丹",
+    "price": 30,
+    "effect": "breakthrough_buff",
+    "value": 0.2,
+    "dailyLimit": 1,
+    "desc": "服用后下次突破成功率+20%（仅限本次突破）"
+  },
+  {
+    "id": "jinyuan_dan",
+    "type": "pill",
+    "name": "金元丹",
+    "price": 80,
+    "effect": "exp",
+    "value": 500,
+    "dailyLimit": 2,
+    "desc": "直接增加500点修为"
+  },
+  {
+    "id": "huisheng_dan",
+    "type": "pill",
+    "name": "回生丹",
+    "price": 200,
+    "effect": "revive_shield",
+    "value": 1,
+    "dailyLimit": 1,
+    "desc": "突破失败时保护你不被打落境界（仅限本次突破）"
+  },
+  {
+    "id": "lingqi_dan",
+    "type": "pill",
+    "name": "灵气丹",
+    "price": 15,
+    "effect": "exp",
+    "value": 100,
+    "dailyLimit": 5,
+    "desc": "小补灵气，增加100点修为"
+  },
+  {
+    "id": "jingyuan_dan",
+    "type": "pill",
+    "name": "精元丹",
+    "price": 50,
+    "effect": "exp",
+    "value": 300,
+    "dailyLimit": 3,
+    "desc": "精纯元力，增加300点修为"
+  },
+  {
+    "id": "dajin_dan",
+    "type": "pill",
+    "name": "大进阶丹",
+    "price": 150,
+    "effect": "breakthrough_buff",
+    "value": 0.35,
+    "dailyLimit": 1,
+    "desc": "高阶丹药，下次突破成功率+35%"
+  },
+  {
+    "id": "xianlu_dan",
+    "type": "pill",
+    "name": "仙露丹",
+    "price": 500,
+    "effect": "exp",
+    "value": 2000,
+    "dailyLimit": 1,
+    "desc": "仙家灵丹，直接增加2000点修为"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "spirit_gather",
+    "name": "聚灵诀",
+    "quality": "黄阶下品",
+    "price": 50,
+    "expMultiplier": 1.1,
+    "breakthroughBonus": 0.02,
+    "minRealm": 0,
+    "desc": "最基础的修炼功法，能略微提升修炼效率。"
+  },
+  {
+    "id": "iron_body",
+    "name": "铁骨功",
+    "quality": "黄阶中品",
+    "price": 120,
+    "expMultiplier": 1.15,
+    "breakthroughBonus": 0.05,
+    "minRealm": 1,
+    "desc": "锤炼筋骨，修炼时气血更稳，突破时不易走火入魔。"
+  },
+  {
+    "id": "fire_heart",
+    "name": "赤炎心法",
+    "quality": "黄阶上品",
+    "price": 250,
+    "expMultiplier": 1.25,
+    "breakthroughBonus": 0.08,
+    "minRealm": 1,
+    "desc": "以火属性灵气入体，修炼速度大幅提升，但消耗也更大。"
+  },
+  {
+    "id": "water_moon",
+    "name": "水月诀",
+    "quality": "玄阶下品",
+    "price": 500,
+    "expMultiplier": 1.35,
+    "breakthroughBonus": 0.1,
+    "minRealm": 2,
+    "desc": "如水般绵长不绝，修炼时灵气循环效率极高。"
+  },
+  {
+    "id": "thunder_step",
+    "name": "惊雷步",
+    "quality": "玄阶中品",
+    "price": 900,
+    "expMultiplier": 1.5,
+    "breakthroughBonus": 0.12,
+    "minRealm": 2,
+    "desc": "借雷霆之力修炼，速度惊人，突破时如有天助。"
+  },
+  {
+    "id": "shadow_veil",
+    "name": "幽影经",
+    "quality": "玄阶上品",
+    "price": 1500,
+    "expMultiplier": 1.6,
+    "breakthroughBonus": 0.15,
+    "minRealm": 3,
+    "desc": "暗影中修炼，灵气吸收效率极高，突破成功率大增。"
+  },
+  {
+    "id": "heaven_cycle",
+    "name": "周天功",
+    "quality": "地阶下品",
+    "price": 3000,
+    "expMultiplier": 1.8,
+    "breakthroughBonus": 0.2,
+    "minRealm": 3,
+    "desc": "大周天循环法，修炼速度一日千里。"
+  },
+  {
+    "id": "dragon_tiger",
+    "name": "龙虎金身",
+    "quality": "地阶中品",
+    "price": 6000,
+    "expMultiplier": 2.0,
+    "breakthroughBonus": 0.25,
+    "minRealm": 4,
+    "desc": "龙虎交汇，金身不灭。修炼效率和突破成功率都极高。"
+  },
+  {
+    "id": "void_spirit",
+    "name": "太虚真经",
+    "quality": "天阶下品",
+    "price": 12000,
+    "expMultiplier": 2.5,
+    "breakthroughBonus": 0.3,
+    "minRealm": 5,
+    "desc": "太虚之境，万法归宗。传闻修炼此功法者皆成大道。"
+  },
+  {
+    "id": "immortal_heart",
+    "name": "不灭仙心",
+    "quality": "天阶上品",
+    "price": 25000,
+    "expMultiplier": 3.0,
+    "breakthroughBonus": 0.4,
+    "minRealm": 6,
+    "desc": "仙道之心，亘古不灭。修炼速度恐怖如斯，突破如喝水般容易。"
+  }
+]
